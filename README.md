@@ -1,6 +1,6 @@
 #The-Sparks-Foundation 
-#Grip #gripjuly22  
-#Gripjuly2022  #gripjuly22  
+#Gripjuly22  
+#Gripjuly2022    
 #Businessanalytics   
 #Datascience  
 #Python
